@@ -20,11 +20,11 @@ body {
 }
 /* 4. */
 header {
-    background: rgb(195, 207, 253);
+    background: rgb(181, 196, 255);
     color: rgb(11, 11, 12);
     padding: 25px;
     text-align: justify;
-    box-shadow: 2px 8px black;
+    box-shadow: 2px 8px rgb(201, 247, 243);
 }
 header h1 {
     font-size: 2rem;
